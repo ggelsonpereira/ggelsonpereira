@@ -34,10 +34,4 @@
    <img align="center" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div>
 
- ![snake gif](https://github.com/ggelsonpereira/ggelsonpereira/blob/output/github-contribution-grid-snake.gif)
-
- https://github.com/ggelsonpereira/ggelsonpereira/blob/output/github-contribution-grid-snake.gif
-
  
- 
-
