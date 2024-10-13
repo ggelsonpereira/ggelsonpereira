@@ -2,7 +2,7 @@
 
 <div align="center">  
  
-![Gelson GitHub stats](https://github-readme-stats.vercel.app/api?username=ggelsonpereira&show_icons=true&theme=onedark)
+![Gelson GitHub stats](https://github-readme-stats.vercel.app/api?username=ggelsonpereira&show_icons=true&theme=dracula)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggelsonpereira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
