@@ -10,6 +10,10 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
    <mark>Angular + TypeScript (Desenvolvimento Web)</mark>  🚀
+   
+   <mark> SQL (Database Management)</mark>  🚀
+   
+   <mark> UML (Diagrams Design)</mark>  🚀
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning.   <mark> Angular + TypeScript(Desenvolvimento Web)</mark> 🚀
