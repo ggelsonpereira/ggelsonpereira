@@ -7,13 +7,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggelsonpereira&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+## ⚡ Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
-   <mark>Angular + TypeScript (Desenvolvimento Web)</mark>  🚀
+ <strong> SQL (Database Management)</strong> 🚀
    
-   <mark> SQL (Database Management)</mark>  🚀
-   
-   <mark> UML (Diagrams Design)</mark>  🚀
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning.   <mark> Angular + TypeScript(Desenvolvimento Web)</mark> 🚀
