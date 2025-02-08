@@ -3,9 +3,12 @@
 </h1>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning.   <strong> Angular + TypeScript(Desenvolvimento Web)</strong> 🚀
+- 🔭 I’m currently working on Angular Desenvolvimento de Aplicações Web de Página Única(SPA)
+- 🔭 I’m Gelson Amadeu
+- 🌱 I’m currently learning.   <strong> Angular, SQL, C#, JAVA</strong> 🚀
 - 👯 I’m looking to collaborate on ...
+- 🌱 I’ve blogged https://gelsonamadeu.cloud
+- 🤔 I’m on Twitter https://x.com/ggelsonpereira
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: gelsonpereira.ao@gmail.com
