@@ -6,11 +6,9 @@
 - 🔭 I’m currently working on em um Sistema de Compartilhamneto de Momentos 
 - 🔭 I’m Gelson Amadeu
 - 🌱 I’m currently learning.   <strong> Angular, SQL, JAVA</strong> 🚀
-- 👯 I’m looking to collaborate on ...
 - 🌱 I’ve blogged https://gelsonamadeu.cloud
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: gelsonpereira.ao@gmail.com
 - 💡 Apaixonado em Engenharia de Software.
   
