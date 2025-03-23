@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on em um Sistema de Compartilhamneto de Momentos 
-- 🔭 I’m Gelson Amadeu
 - 🌱 I’m currently learning.   <strong> Angular, SQL, JAVA</strong> 🚀
 - 🌱 I’ve blogged https://gelsonamadeu.cloud
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
