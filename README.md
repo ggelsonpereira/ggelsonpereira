@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on em um Sistema de Compartilhamneto de Momentos 
-- 🌱 I’m currently learning.   <strong> Angular, SQL, JAVA</strong> 🚀
+- 🌱 I’m currently learning.   <strong> Angular + TypeScript, SQL, JAVA APIs RestFull</strong> 🚀
 - 🌱 I’ve blogged https://gelsonamadeu.cloud
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
 - 🤔 I’m looking for help with ...
