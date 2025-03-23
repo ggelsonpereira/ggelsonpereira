@@ -3,9 +3,9 @@
 </h1>
 
 
-- 🔭 I’m currently working on Angular Desenvolvimento de Aplicações Web de Página Única(SPA)
+- 🔭 I’m currently working on em um Sistema de Compartilhamneto de Momentos 
 - 🔭 I’m Gelson Amadeu
-- 🌱 I’m currently learning.   <strong> Angular, SQL, C#, JAVA</strong> 🚀
+- 🌱 I’m currently learning.   <strong> Angular, SQL, JAVA</strong> 🚀
 - 👯 I’m looking to collaborate on ...
 - 🌱 I’ve blogged https://gelsonamadeu.cloud
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
