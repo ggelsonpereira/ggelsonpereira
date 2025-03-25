@@ -10,6 +10,8 @@
 - 💡 Estou no Discord https://discord.gg/@gelsonpereira
 - 🤔 I’m looking for help with ...
 - 🌐 Passionate about web development
+- 🎓 Unibelas em Ciência da Computação
+- 🏆 Rockseat Certification Java
 
   
 ![](https://github-readme-stats.vercel.app/api?username=ggelsonpereira&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
