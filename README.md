@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gelson+Pereira+!;" />
 </h1>
 
-- 🌱 I’m currently learning. (Java | Spring Boot | AWS | SQL | Angular | Typescript | UML | HTML | CSS| NoSQL ) 🚀
+ (Java | Spring Boot | AWS | SQL | Angular | Typescript | UML | HTML | CSS| NoSQL ) 🚀
 - 🔭 I’m currently working on em um Sistema de Compartilhamneto de Momentos 
 - 🌱 I’ve blogged https://gelsonamadeu.cloud
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
