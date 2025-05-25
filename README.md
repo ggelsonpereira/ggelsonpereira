@@ -3,7 +3,7 @@
 </h1>
 
  (Java | Spring Boot | AWS | SQL | Angular | Typescript | UML | HTML | CSS| NoSQL ) 🚀
-- 🔭 I’m currently working on em um Sistema de Compartilhamneto de Momentos 
+- 🔭 I’m Gelson Pereira Amadeu 
 - 🌱 I’ve blogged https://gelsonamadeu.cloud
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
 - 💡 Estou no Discord https://discord.gg/@gelsonpereira
