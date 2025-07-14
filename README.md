@@ -7,7 +7,7 @@
 - 🌱 I’ve blogged https://gelsonamadeu.com
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
 - 💡 Estou no Discord https://discord.gg/@gelsonpereira
-- 🌐 Passionate about web development
+- 🌐 Passionate about Desenvolvimento de Sistemas
 - 🎓 Unibelas em Ciência da Computação
 - 🏆 Rockseat Certification Java
   
