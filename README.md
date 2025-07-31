@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gelson+Pereira+!;" />
 </h1>
 
- (Java | Spring Boot | AWS | SQL | Angular | Typescript | UML | HTML | CSS| NoSQL ) 🚀
+ Software Engineer | Backend & Data Analytics (Java, SQL, Python, Power BI) | Angular | Agile & Scrum Practitioner 🚀
 - 🔭 I’m Gelson Pereira Amadeu 
 - 🌱 I’ve blogged https://gelsonamadeu.com
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
