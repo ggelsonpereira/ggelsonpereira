@@ -7,11 +7,11 @@
 - 🌱 I’ve blogged https://gelsonamadeu.com
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
 - 💡 Estou no Discord https://discord.gg/@gelsonpereira
-- 🌐 Passionate About Desenvolvimento de Sistemas
-- 🎓 Bacharel em Ciência da Computação
-- 🏆 Rockseat Certification Java
-- 💬 e eu gosto de fazer Documentações no Notion
-- ⚡ Curiosidade: uso ohmyposh desde 2023
+- 🌐 Passionate about desenvolvimento de sistemas, e em boas práticas de engenharia de software.
+- 🎓 Bacharel em Ciência da Computação.
+- 🏆 Certificações em Rocketseat, FreeCodeCamp, CodeSignal.
+- 💬 e eu gosto de fazer Documentações no Notion.
+- ⚡ Curiosidade: uso ohmyposh desde 2023.
   
 ![](https://github-readme-stats.vercel.app/api?username=ggelsonpereira&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
