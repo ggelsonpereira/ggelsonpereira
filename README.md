@@ -13,7 +13,13 @@
 - 💬 e eu gosto de fazer Documentações no Notion.
 - ⚡ Curiosidade: uso ohmyposh desde 2023.
   
-![](https://github-readme-stats.vercel.app/api?username=ggelsonpereira&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Top Langs à esquerda -->
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggelsonpereira&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+
+  <!-- GitHub Stats à direita -->
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ggelsonpereira&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+</div>
 
 
   
