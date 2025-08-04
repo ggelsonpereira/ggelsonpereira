@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gelson+Pereira+!;" />
 </h1>
 
- Software Engineer & Agile Practitioner | Java, Python, SQL | Clean Architecture | Scrum | Data Analytics (Power BI) 🚀
+ # Hey friends!
 - 🔭 I’m Gelson Pereira Amadeu 
 - 🌱 I’ve blogged https://gelsonamadeu.com
 - 🤔 I’m on Twitter https://x.com/ggelsonpereira
