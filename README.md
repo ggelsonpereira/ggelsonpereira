@@ -1,8 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gelson+Pereira+!;" />
-</h1>
+<h1 align="center">Hello, I'm Gelson Pereira 👋</h1>
 
-# Hey friends!
+<p align="center">
+  <img src="https://github.com/ggelsonpereira/ggelsonpereira/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
 - 🔭 I’m Gelson Pereira Amadeu
 - 🌱 I’ve blogged https://gelsonamadeu.com
