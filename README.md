@@ -14,11 +14,12 @@
 - 💬 e eu gosto de fazer Documentações no Notion.
 - ⚡ Curiosidade: uso ohmyposh desde 2023.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Top Langs à esquerda -->
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggelsonpereira&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-
-  <!-- GitHub Stats à direita -->
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ggelsonpereira&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggelsonpereira&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ggelsonpereira&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
+
+
+
+
