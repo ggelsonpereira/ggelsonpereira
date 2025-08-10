@@ -15,9 +15,9 @@
 - ⚡ Curiosidade: uso ohmyposh desde 2023.
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggelsonpereira&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggelsonpereira&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ggelsonpereira&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&card_width=500" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggelsonpereira&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 
